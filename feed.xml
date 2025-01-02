@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>The Energy Whisperer</title>
+    <link href="https://TheEnergyWhisperer.github.io/feed.xml" rel="self" />
+    <link href="https://TheEnergyWhisperer.github.io" />
+    <updated>2025-01-02T17:14:23-03:00</updated>
+    <author>
+        <name>Victor Batista</name>
+    </author>
+    <id>https://TheEnergyWhisperer.github.io</id>
+
+    <entry>
+        <title> Grounding Grid: Analysis grid discretization</title>
+        <author>
+            <name>Victor Batista</name>
+        </author>
+        <link href="https://TheEnergyWhisperer.github.io/grounding-grid-analysis-grid-discretization.html"/>
+        <id>https://TheEnergyWhisperer.github.io/grounding-grid-analysis-grid-discretization.html</id>
+
+        <updated>2025-01-02T17:14:23-03:00</updated>
+            <summary>
+                <![CDATA[
+                    The solution in grounding grid analysis depends directly on the grid discretization. The smaller the segment, the more faithful the representation of reality. In this study, I simulated a 100x100m grid with 10x10m grids with different segment sizes. The graph shows that reducing the segment&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    The solution in grounding grid analysis depends directly on the grid discretization. The smaller the segment, the more faithful the representation of reality.<br><br>In this study, I simulated a 100x100m grid with 10x10m grids with different segment sizes. The graph shows that reducing the segment size leads to a more uniform voltage distribution that is closer to the real value.
+  </p>
+
+  <p>
+    
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://TheEnergyWhisperer.github.io/media/posts/2/1.jpg" height="967" width="1920" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://TheEnergyWhisperer.github.io/media/posts/2/responsive/1-xs.jpg 640w ,https://TheEnergyWhisperer.github.io/media/posts/2/responsive/1-sm.jpg 768w ,https://TheEnergyWhisperer.github.io/media/posts/2/responsive/1-md.jpg 1024w ,https://TheEnergyWhisperer.github.io/media/posts/2/responsive/1-lg.jpg 1366w ,https://TheEnergyWhisperer.github.io/media/posts/2/responsive/1-xl.jpg 1600w ,https://TheEnergyWhisperer.github.io/media/posts/2/responsive/1-2xl.jpg 1920w">
+      
+    </figure>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://TheEnergyWhisperer.github.io/media/posts/2/2.jpg" height="967" width="1920" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://TheEnergyWhisperer.github.io/media/posts/2/responsive/2-xs.jpg 640w ,https://TheEnergyWhisperer.github.io/media/posts/2/responsive/2-sm.jpg 768w ,https://TheEnergyWhisperer.github.io/media/posts/2/responsive/2-md.jpg 1024w ,https://TheEnergyWhisperer.github.io/media/posts/2/responsive/2-lg.jpg 1366w ,https://TheEnergyWhisperer.github.io/media/posts/2/responsive/2-xl.jpg 1600w ,https://TheEnergyWhisperer.github.io/media/posts/2/responsive/2-2xl.jpg 1920w">
+      
+    </figure>
+
+  <p>
+    #engenhariaelétrica #malhadeaterramento #simulação #análise #eletromagnetismo
+  </p>
+
+  <p>
+    #electricalengineering #earthingmesh #simulation #analysis #electromagnetism
+  </p>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
