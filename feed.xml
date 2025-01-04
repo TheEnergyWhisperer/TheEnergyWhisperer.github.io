@@ -3,7 +3,7 @@
     <title>The Energy Whisperer</title>
     <link href="https://TheEnergyWhisperer.github.io/feed.xml" rel="self" />
     <link href="https://TheEnergyWhisperer.github.io" />
-    <updated>2025-01-04T09:55:24-03:00</updated>
+    <updated>2025-01-04T10:05:41-03:00</updated>
     <author>
         <name>Victor Batista</name>
     </author>
@@ -16,6 +16,7 @@
         </author>
         <link href="https://TheEnergyWhisperer.github.io/understanding-touch-potential-in-substation-external-fences-importance-for-safety-and-compliance.html"/>
         <id>https://TheEnergyWhisperer.github.io/understanding-touch-potential-in-substation-external-fences-importance-for-safety-and-compliance.html</id>
+            <category term="Grounding Grid"/>
 
         <updated>2025-01-04T09:55:24-03:00</updated>
             <summary>
@@ -46,6 +47,7 @@
         </author>
         <link href="https://TheEnergyWhisperer.github.io/touch-potential-analysis-of-insulated-fences-an-important-step-for-safety.html"/>
         <id>https://TheEnergyWhisperer.github.io/touch-potential-analysis-of-insulated-fences-an-important-step-for-safety.html</id>
+            <category term="Grounding Grid"/>
 
         <updated>2025-01-04T09:50:23-03:00</updated>
             <summary>
@@ -68,6 +70,7 @@
         </author>
         <link href="https://TheEnergyWhisperer.github.io/lightning-strikes-vs-density-of-atmospheric-discharges.html"/>
         <id>https://TheEnergyWhisperer.github.io/lightning-strikes-vs-density-of-atmospheric-discharges.html</id>
+            <category term="Lightning"/>
 
         <updated>2025-01-04T09:48:07-03:00</updated>
             <summary>
@@ -91,6 +94,7 @@
         </author>
         <link href="https://TheEnergyWhisperer.github.io/grounding-grid-analysis-grid-discretization.html"/>
         <id>https://TheEnergyWhisperer.github.io/grounding-grid-analysis-grid-discretization.html</id>
+            <category term="Grounding Grid"/>
 
         <updated>2025-01-02T17:14:23-03:00</updated>
             <summary>

@@ -1,3 +1,2 @@
 User-agent: *
-Disallow:
-Sitemap: https://TheEnergyWhisperer.github.io/sitemap.xml
+Disallow: /
